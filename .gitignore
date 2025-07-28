@@ -1,0 +1,7 @@
+# Ignore dirs
+coverage/
+node_modules/
+
+# Ignore files
+package_lock.json
+bookstore.db
