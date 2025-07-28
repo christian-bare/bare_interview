@@ -3,5 +3,5 @@ coverage/
 node_modules/
 
 # Ignore files
-package_lock.json
+package-lock.json
 bookstore.db

@@ -31,14 +31,16 @@ npm run coverage
 File storage and in-memory are implemented. Currently, in-memory is enabled. Please see line 5 in database.js for more information
 
 ### Technologies
-Node.js + Express
-SQLite3
-Jest + Supertest
+-  Node.js 
+-  Express
+-  SQLite3
+-  Jest + Supertest
 
 ### Project Structure
 ```
 bare_interview/
 ├── database.js
+├── .gitignore
 ├── index.js
 ├── index.test.js
 ├── lib.js
